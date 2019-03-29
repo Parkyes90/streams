@@ -5,7 +5,7 @@ import StreamCreate from "./streams/StreamCreate";
 import StreamEdit from "./streams/StreamEdit";
 import StreamDelete from "./streams/StreamDelete";
 import StreamShow from "./streams/StreamShow";
-import Header from "./streams/Header";
+import Header from "./Header";
 
 
 class App extends Component {

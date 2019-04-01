@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "This is a Stream",
+      "description": "This is a Great Stream",
+      "userId": "107964693317364287490",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Hear's some Stream",
+      "userId": "107964693317364287490",
+      "id": 2
+    },
+    {
+      "title": "I created",
+      "description": "This was made by new",
+      "userId": "107964693317364287490",
+      "id": 3
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "userId": "107964693317364287490",
+      "id": 4
+    },
+    {
+      "title": "zzzzzzzzzzzzTest",
+      "description": "You should zzzzzzzzzzzzzzzzzzzzzzz",
+      "userId": "107964693317364287490",
+      "id": 5
+    },
+    {
+      "title": "asdasdasdadasdasdasdzzzzzzzzzz",
+      "description": "dasdasdasdasdzzzzzzzzzzzzzzzzzz",
+      "id": 6
+    }
+  ]
+}
